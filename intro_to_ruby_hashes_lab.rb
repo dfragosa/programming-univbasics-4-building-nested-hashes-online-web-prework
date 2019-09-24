@@ -15,7 +15,7 @@ end
 
 def monopoly_with_third_tier
  base = {:railroads =>{:pieces =>4, :rent_in_dollars =>
-        {:one_piece_owned =>25, :two_pieces_owned =>50, :three_pieces_owned =>100, :key4 =>{}},
+        {:one_piece_owned =>25, :two_pieces_owned =>50, :three_pieces_owned =>100, :four_pieces_owned =>200},
           :names =>{:name1 =>{}, :name2 =>{}, :name3 =>{}, 
           :name4 =>{} }}
    }
